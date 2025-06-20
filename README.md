@@ -1,6 +1,6 @@
 ## ER-fpsunlock
 
-A quick and simple commandline tool for changing the fps lock in Elden Ring, written in rust.
+A quick and simple cli for changing the fps lock in Elden Ring, written in rust.
 
 ## Disclaimer
 
